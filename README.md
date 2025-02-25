@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm currently learning **Web Development** and exp
 
 ## 📫 Let's Connect!
 - GitHub: [Shatakshi033](https://github.com/Shatakshi033)
-- LinkedIn: [Shatakshi033](www.linkedin.com/in/shatakshi033)
+- LinkedIn: [Shatakshi033](https://www.linkedin.com/in/shatakshi033/)
 
 
 ⚡ **Fun fact:** Learning to code is like solving a puzzle—every piece fits together to build something awesome! 😃
